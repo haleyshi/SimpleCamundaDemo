@@ -1,0 +1,8 @@
+/.settings/
+/target/
+/.mvn/
+.classpath
+.project
+build.properties.example
+build.xml
+
